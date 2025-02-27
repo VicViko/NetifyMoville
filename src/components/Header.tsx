@@ -12,7 +12,7 @@ export default function Header() {
               className="flex items-center gap-2 hover:text-amber-200"
             >
               <Phone size={16} />
-              <span>+62 88828 7601356</span>
+              <span>+62 8828 7601356</span>
             </a>
             <a
               href="mailto:Yohannesvermata@gmail.com"

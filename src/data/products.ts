@@ -106,7 +106,7 @@ export const products: Product[] = [
   },
   {
     id: 13,
-    name: "Teak Study Desk",
+    name: "Study Desk",
     category: "Office",
     description: "Spacious desk with built-in drawers",
     price: 950,
@@ -114,7 +114,7 @@ export const products: Product[] = [
   },
   {
     id: 14,
-    name: "Teak Office Chair",
+    name: "Office Chair",
     category: "Office",
     description: "Ergonomic chair with leather upholstery",
     price: 700,
@@ -154,9 +154,9 @@ export const products: Product[] = [
   },
   {
     id: 19,
-    name: "Teak Chest of Drawers",
+    name: "Chest of Drawers",
     category: "Bedroom",
-    description: "5-drawer chest with carved details",
+    description: "5-drawer chest",
     price: 1100,
     image: "https://plus.unsplash.com/premium_photo-1675838735598-7060d1f577f7?auto=format&fit=crop&q=80&w=800"
   },
@@ -242,7 +242,7 @@ export const products: Product[] = [
   },
   {
     id: 30,
-    name: "Teak Magazine Rack",
+    name: "Magazine Rack",
     category: "Living",
     description: "Floor magazine rack with handle",
     price: 300,
@@ -250,7 +250,7 @@ export const products: Product[] = [
   },
   {
     id: 31,
-    name: "Teak Folding Table",
+    name: "Folding Table",
     category: "Living",
     description: "Space-saving folding side table",
     price: 400,
@@ -298,7 +298,7 @@ export const products: Product[] = [
   },
   {
     id: 37,
-    name: "Teak pencil box",
+    name: "pencil box",
     category: "Living",
     description: "Storage ottoman with tufted leather top",
     price: 600,

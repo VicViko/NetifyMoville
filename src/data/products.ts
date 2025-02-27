@@ -238,7 +238,7 @@ export const products: Product[] = [
     category: "Storage",
     description: "Standing coat rack with umbrella holder",
     price: 400,
-    image: "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1709720402512-7fa5f560b28a?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 30,
@@ -246,7 +246,7 @@ export const products: Product[] = [
     category: "Living",
     description: "Floor magazine rack with handle",
     price: 300,
-    image: "https://images.unsplash.com/photo-1554295405-abb8fd54f153?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1579947652296-e02589987751?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 31,
@@ -262,7 +262,7 @@ export const products: Product[] = [
     category: "Kitchen",
     description: "Wall-mounted kitchen storage cabinet",
     price: 900,
-    image: "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1738162599555-c28b00062960?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 33,
@@ -270,7 +270,7 @@ export const products: Product[] = [
     category: "Bathroom",
     description: "Single sink bathroom vanity cabinet",
     price: 1200,
-    image: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1683121999757-f4c2a8f848c3?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 34,
@@ -278,7 +278,7 @@ export const products: Product[] = [
     category: "Bathroom",
     description: "Wall-mounted towel rack with shelf",
     price: 300,
-    image: "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1675744019226-469d159d1bf0?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 35,
@@ -294,15 +294,15 @@ export const products: Product[] = [
     category: "Living",
     description: "Tiered plant stand for indoor use",
     price: 250,
-    image: "https://images.unsplash.com/photo-1565791380713-1756b9a05343?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1679921582421-f770b37cd4d5?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 37,
-    name: "Teak Storage Ottoman",
+    name: "Teak pencil box",
     category: "Living",
     description: "Storage ottoman with tufted leather top",
     price: 600,
-    image: "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1600926565634-ff972dfb33a3?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 38,
@@ -314,11 +314,11 @@ export const products: Product[] = [
   },
   {
     id: 39,
-    name: "Teak Umbrella Stand",
+    name: "Wood clock",
     category: "Storage",
-    description: "Traditional umbrella stand with drip tray",
+    description: "Traditional Wood clock",
     price: 150,
-    image: "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1615648260252-bd758220c0ce?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 40,

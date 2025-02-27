@@ -14,7 +14,7 @@ export const products: Product[] = [
     category: "Dining",
     description: "Elegant 6-seater dining table crafted from premium teak wood",
     price: 1200,
-    image: "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1635700698888-a659f411d7c2?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 2,
@@ -126,7 +126,7 @@ export const products: Product[] = [
     category: "Office",
     description: "3-drawer file cabinet with lock",
     price: 800,
-    image: "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1608094409693-246985973278?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 16,
@@ -134,7 +134,7 @@ export const products: Product[] = [
     category: "Storage",
     description: "Slim shoe storage with tilt-out doors",
     price: 500,
-    image: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1672883552313-17a6f34ff1a0?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 17,
@@ -142,7 +142,7 @@ export const products: Product[] = [
     category: "Living",
     description: "Narrow console table for entryway",
     price: 600,
-    image: "https://images.unsplash.com/photo-1554295405-abb8fd54f153?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1663335058291-e65eead8a1ba?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 18,
@@ -150,7 +150,7 @@ export const products: Product[] = [
     category: "Dining",
     description: "Elegant bar cabinet with wine storage",
     price: 1400,
-    image: "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1676823570438-5b717d034e97?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 19,
@@ -158,15 +158,15 @@ export const products: Product[] = [
     category: "Bedroom",
     description: "5-drawer chest with carved details",
     price: 1100,
-    image: "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1675838735598-7060d1f577f7?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 20,
-    name: "Teak Wall Unit",
+    name: "teak table unit",
     category: "Living",
     description: "Modular wall unit with display shelves",
     price: 2200,
-    image: "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1698770531036-c627d35188f2?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 21,
@@ -182,7 +182,7 @@ export const products: Product[] = [
     category: "Storage",
     description: "Entry bench with storage compartment",
     price: 700,
-    image: "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1722517273951-34dcabf3e67b?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 23,
@@ -190,7 +190,7 @@ export const products: Product[] = [
     category: "Living",
     description: "3-panel carved room divider screen",
     price: 1200,
-    image: "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1722942724112-d2c194008864?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 24,
@@ -198,7 +198,7 @@ export const products: Product[] = [
     category: "Office",
     description: "Compact writing desk with single drawer",
     price: 800,
-    image: "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1720884611740-f5e807d7c77e?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 25,
@@ -206,7 +206,7 @@ export const products: Product[] = [
     category: "Bedroom",
     description: "Dressing table with mirror and stool",
     price: 1000,
-    image: "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1613377739958-76c13ca6bff3?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 26,
@@ -214,7 +214,7 @@ export const products: Product[] = [
     category: "Living",
     description: "Glass-front display cabinet with lighting",
     price: 1600,
-    image: "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1697228427801-89a5768527f7?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 27,
@@ -222,7 +222,7 @@ export const products: Product[] = [
     category: "Kitchen",
     description: "Mobile kitchen island with storage",
     price: 1400,
-    image: "https://images.unsplash.com/photo-1565791380713-1756b9a05343?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1724818358773-5c698f12cda3?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 28,
@@ -230,7 +230,7 @@ export const products: Product[] = [
     category: "Dining",
     description: "Floor-standing wine rack for 24 bottles",
     price: 600,
-    image: "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1708443164530-8a66ad2029d8?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 29,

@@ -14,7 +14,7 @@ export const products: Product[] = [
     category: "Dining",
     description: "Elegant 6-seater dining table crafted from premium teak wood",
     price: 1200,
-    image: "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&q=80&w=800"
+    image: "https://drive.google.com/file/d/1LJGJHn18FmXVthCu0D3LuMOhjaVayZ__/view?usp=drive_link"
   },
   {
     id: 2,

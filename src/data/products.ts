@@ -38,7 +38,7 @@ export const products: Product[] = [
     category: "Dining",
     description: "Set of 6 elegant dining chairs with comfortable cushions",
     price: 1800,
-    image: "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1673214881759-4bd60b76acae?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 5,
@@ -86,7 +86,7 @@ export const products: Product[] = [
     category: "Bedroom",
     description: "6-drawer dresser with mirror",
     price: 1300,
-    image: "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1692451438819-24d1ac92c3eb?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 11,
@@ -94,7 +94,7 @@ export const products: Product[] = [
     category: "Dining",
     description: "Large buffet cabinet for dining room storage",
     price: 1700,
-    image: "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1698500035443-d774d98aaf06?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 12,
@@ -102,7 +102,7 @@ export const products: Product[] = [
     category: "Living",
     description: "Space-saving corner display unit",
     price: 600,
-    image: "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1566753701651-f282d8de4949?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 13,
@@ -118,7 +118,7 @@ export const products: Product[] = [
     category: "Office",
     description: "Ergonomic chair with leather upholstery",
     price: 700,
-    image: "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1700168333927-023e01cc748f?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 15,
@@ -310,7 +310,7 @@ export const products: Product[] = [
     category: "Storage",
     description: "Floating wall shelf with hidden brackets",
     price: 200,
-    image: "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1726869746318-017138da49b7?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 39,

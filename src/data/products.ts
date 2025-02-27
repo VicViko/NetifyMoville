@@ -322,10 +322,10 @@ export const products: Product[] = [
   },
   {
     id: 40,
-    name: "Teak Key Cabinet",
+    name: "Key Cabinet",
     category: "Storage",
     description: "Wall-mounted key storage cabinet",
     price: 180,
-    image: "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=800"
+    image: "https://plus.unsplash.com/premium_photo-1731622157143-70f72e11a580?auto=format&fit=crop&q=80&w=800"
   }
 ];

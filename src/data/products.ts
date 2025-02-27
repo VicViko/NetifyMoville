@@ -14,7 +14,7 @@ export const products: Product[] = [
     category: "Dining",
     description: "Elegant 6-seater dining table crafted from premium teak wood",
     price: 1200,
-    image: "https://images.unsplash.com/photo-1611486212557-88be5ff6f941?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 2,
@@ -62,7 +62,7 @@ export const products: Product[] = [
     category: "Bedroom",
     description: "Compact nightstand with drawer and shelf",
     price: 400,
-    image: "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1597072689227-8882273e8f6a?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 8,

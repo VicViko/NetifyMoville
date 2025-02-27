@@ -80,9 +80,9 @@ function App() {
       {/* About Section */}
       <section id="about" className="bg-white py-16">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-8">About Mobile Value</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">About Moville Value</h2>
           <p className="text-lg text-gray-700 max-w-3xl mx-auto text-center">
-            Mobile Value specializes in premium teak furniture, crafting timeless pieces that combine traditional 
+            Moville Value specializes in premium teak furniture, crafting timeless pieces that combine traditional 
             craftsmanship with modern design. Each piece is carefully selected to ensure the highest quality 
             and durability that teak wood is renowned for.
           </p>
@@ -111,7 +111,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-amber-900 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p>© 2024 Mobile Value. All rights reserved.</p>
+          <p>© 2024 Moville Value. All rights reserved.</p>
         </div>
       </footer>
     </div>

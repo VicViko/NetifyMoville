@@ -96,7 +96,7 @@ function App() {
           <div className="space-y-4">
             <p className="flex items-center gap-2">
               <Phone size={20} className="text-amber-900" />
-              <a href="tel:+62888287601356" className="hover:text-amber-900">+62 88828 7601356</a>
+              <a href="tel:+6288287601356" className="hover:text-amber-900">+62 8828 7601356</a>
             </p>
             <p className="flex items-center gap-2">
               <Mail size={20} className="text-amber-900" />

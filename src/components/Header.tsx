@@ -8,7 +8,7 @@ export default function Header() {
         <div className="py-2 text-sm flex justify-between items-center border-b border-amber-800">
           <div className="flex items-center gap-6">
             <a
-              href="tel:+62888287601356"
+              href="tel:+6288287601356"
               className="flex items-center gap-2 hover:text-amber-200"
             >
               <Phone size={16} />

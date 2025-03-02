@@ -9,7 +9,7 @@ interface ProductCardProps {
 export default function ProductCard({ product }: ProductCardProps) {
   const handleWhatsApp = () => {
     const message = `Hello, I'm interested in ${product.name}. Could you provide more information?`;
-    const whatsappUrl = `https://wa.me/62888287601356?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/6288287601356?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 

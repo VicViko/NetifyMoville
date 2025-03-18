@@ -100,8 +100,8 @@ function App() {
             </p>
             <p className="flex items-center gap-2">
               <Mail size={20} className="text-amber-900" />
-              <a href="mailto:Yohannesvermata@gmail.com" className="hover:text-amber-900">
-                Yohannesvermata@gmail.com
+              <a href="mailto:info@movillevalue.com" className="hover:text-amber-900">
+                info@movillevalue.com
               </a>
             </p>
           </div>

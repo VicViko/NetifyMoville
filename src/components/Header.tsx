@@ -15,11 +15,11 @@ export default function Header() {
               <span>+62 8828 7601356</span>
             </a>
             <a
-              href="mailto:Yohannesvermata@gmail.com"
+              href="mailto:info@movillevalue.com"
               className="flex items-center gap-2 hover:text-amber-200"
             >
               <Mail size={16} />
-              <span>Yohannesvermata@gmail.com</span>
+              <span>info@movillevalue.com</span>
             </a>
           </div>
         </div>
